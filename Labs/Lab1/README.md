@@ -66,5 +66,12 @@ If you still have time, you can explore the following topics:
 
 # Submission Guidelines
 
-To be determined at the end of the lab!
+Submit a .zip file named LAST_NAME1-LAST_NAME1-Lab2.zip containing Lab1's Jupyter notebook (LAST_NAME1-LAST_NAME1-Lab2.ipynb).
 
+Please make sure that the size of your zip file is not larger than 5MB.
+
+The deadline is October 2, upload your zip file on Moodle.
+
+## Will this TD be evaluated ?
+
+This TD will be evaluated with TD2. 

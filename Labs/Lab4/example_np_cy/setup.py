@@ -1,8 +1,11 @@
+import os
 from distutils.core import setup
 from distutils.extension import Extension
 
 import numpy
 from Cython.Build import cythonize
+
+os.environ["CC"] = "gcc"
 
 # extensions = [
 #     Extension("primes", ["primes.pyx"],
