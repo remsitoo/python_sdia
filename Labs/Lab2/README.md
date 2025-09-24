@@ -16,6 +16,8 @@ Your aswers will be evaluated depending on:
 3. Unit-tests developed whenever appropriate (correctness, relevance)
 4. Answers to the questions and overall presentation of the Jupyter notebook.
 
+The recall on `Inner Product of Complex Matrices` is useful. Please read it [here](inner-product-of-complex-matrices.ipynb)
+
 ## Submission Guidelines
 
 You will have to submit a .zip file named LAST_NAME1-LAST_NAME1-Lab2.zip with your solutions, containing:
@@ -27,8 +29,7 @@ You will have to submit a .zip file named LAST_NAME1-LAST_NAME1-Lab2.zip with yo
 
 Please make sure that the size of your zip file is not larger than 5MB.
 
-The deadline is October 11, at 23:59, upload your zip file using this Dropbox file request:
-https://www.dropbox.com/request/KItj0fVJTl4iFcdbgRph
+The deadline is indicated on Moodle. Please upload your zip file before then.
 
 ## Late Policy
 
